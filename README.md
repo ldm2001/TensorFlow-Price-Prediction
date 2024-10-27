@@ -26,6 +26,8 @@
 
 - 아나콘다 프롬프트에서 프로젝트 웹 폴더 경로로 디렉터리 변경 후 실행
 
+![alt text](<image/APP Main Page.jpeg>)
+
 # 게시판으로 주변 마트나 시장 가격 확인 후 공유하는 공간 제작
 ## Xampp, 비쥬얼 스튜디오 코드(PHP), SQLyog
 
@@ -104,3 +106,5 @@
 - 게시판 댓글쓰기
 
 - 댓글 목록
+
+![alt text](<image/PHP Board.jpeg>)
